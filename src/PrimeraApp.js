@@ -15,7 +15,7 @@ PrimeraApp.propTypes = {
 } 
 
 PrimeraApp.defaultProps = {
-    saludo: 'Hola Mundo',
+    saludo: 'Hola, Soy Foku',
     subtitulo: 'Soy un subtitulo'
 }
 
