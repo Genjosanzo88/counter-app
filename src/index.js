@@ -7,7 +7,7 @@
 
  const divRoot = document.querySelector('#root');
 
- ReactDOM.render(<CounterApp value = {0}/>, divRoot);
+ ReactDOM.render(<CounterApp />, divRoot);
 
 // Despues de la v.18
 // import React from 'react';
